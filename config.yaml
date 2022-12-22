@@ -1,0 +1,50 @@
+cora:
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.3
+  drop_feature_rate_1: 0.2
+  drop_feature_rate_2: 0.3
+  temperature: 2
+  inductive: False
+citeseer:
+  drop_edge_rate_1: 0.4
+  drop_edge_rate_2: 0.5
+  drop_feature_rate_1: 0.4
+  drop_feature_rate_2: 0.5
+  temperature: 0.7
+  inductive: False
+pubmed:
+  drop_edge_rate_1: 0.4
+  drop_edge_rate_2: 0.1
+  drop_feature_rate_1: 0.0
+  drop_feature_rate_2: 0.2
+  temperature: 0.1
+  inductive: False
+DBLP:
+  drop_edge_rate_1: 0.1
+  drop_edge_rate_2: 0.2
+  drop_feature_rate_1: 0.2
+  drop_feature_rate_2: 0.3
+  temperature: 0.8
+  inductive: False
+cornell:
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.3
+  drop_feature_rate_1: 0.2
+  drop_feature_rate_2: 0.3
+  temperature: 0.4
+  inductive: False
+Texas:
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.3
+  drop_feature_rate_1: 0.2
+  drop_feature_rate_2: 0.3
+  temperature: 0.4
+  inductive: False
+Wisconsin:
+  drop_edge_rate_1: 0.2
+  drop_edge_rate_2: 0.3
+  drop_feature_rate_1: 0.2
+  drop_feature_rate_2: 0.3
+  temperature: 0.4
+  inductive: False
+
