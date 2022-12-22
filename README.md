@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## SAMCL: Subgraph-Aligned Multi-View Contrastive Learning for Graph Anomaly Detection
 ___
 This is  the source code for "SAMCL: Subgraph-Aligned Multi-View Contrastive Learning for Graph Anomaly Detection"
@@ -49,7 +48,4 @@ To train and evaluate on other datasets:
     python main.py --dataset BlogCatalog --lr 1e-2 --alpha 0.7 --beta 0.8 --K_1 4 --K_2 8
     python main.py --dataset ACM --lr 5e-3 --alpha 0.3 --beta 0.1 --K_1 6 --K_2 8
     python main.py --dataset pubmed --lr 2e-3 --alpha 0.7 --beta 0.6 --K_1 4 --K_2 8
-=======
-# www2023
- 
->>>>>>> 75dea83151dc508b602680635f9d86839af48a62
+
